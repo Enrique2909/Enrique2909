@@ -10,7 +10,7 @@
 <a href="https://twitter.com/@vargase056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vargase056" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/enrique-vargas-189566264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enrique vargas" height="30" width="40" /></a>
 <a href="https://www.instagram.com/master_kike?utm_source=qr&igsh=ZnVkYWhteXMxMGxv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@master_kike" height="30" width="40" /></a>
-<a href="enrique8157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ENRIQUE#8157" height="30" width="40" /></a>
+<a href="https://discord.gg/ENRIQUE#8157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ENRIQUE#8157" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
