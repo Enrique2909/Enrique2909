@@ -19,9 +19,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enrique2909&show_icons=true&locale=en&layout=compact" alt="enrique2909" /></p>
 
-😎 Acerca de mi / About Me:
-⛪ De Mexico / From Bolivia
-🕸 Programador, Desarrollador Web JR
-😈 Modder de Whatsapp
-👾 Estudiante de SISTEMAS
-👽 Contacto / Contact Me: VARGASE056@GMAIL.COM
+### 😎 Acerca de mi / About Me:
+- ⛪ De BOLIVIA / From SANTA CRUZ  
+- 🕸 Programador, Desarrollador Web JR
+- 👾 Estudiante de INGENIERÍA DE SISTEMAS 
+- 👽 Contacto / Contact Me: **VARGASE056@gmail.com**
+  
